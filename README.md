@@ -1,2 +1,4 @@
 # Instagram-Login-Page
-How to create Instagram Login page Using HTML and CSS
+--> THIS IS AN EXACT CLONED REPLICA OF THE INSTAGRAM LOGIN PAGE!
+--> MADE USING ONLY HTML AND CSS
+
